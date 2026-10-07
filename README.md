@@ -3,6 +3,7 @@
 I'm currently working on several own projects, such as:
 
 * [Better Light Meter](https://github.com/aliakseikalosha/BetterLightMeter) — iOS lux metering application
+* [Meta Info Updater](https://github.com/aliakseikalosha/MetaInfoUpdater) — Mac OS application to update metadata of photo, work with analog film scans 
 * [Quake Playdate](https://github.com/aliakseikalosha/quake-playdate) — port of the Quake engine for a [Playdate](https://play.date/) console
 * [Doom Playdate](https://github.com/aliakseikalosha/PlaydateDoom) — port of the Doom engine for a [Playdate](https://play.date/) console
 
